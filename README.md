@@ -1,6 +1,6 @@
-# Kinsella Dairies Web Platform
+# Kinsella Dairies Online Platform
 
-The Kinsella Dairies web platform is a full stack application delivering an online shopping experience with an associated user accounts system, as well as administrative tools enabling the platform to be dynamic and responsive.
+The Kinsella Dairies online platform is a full stack application delivering an online shopping experience with an associated user accounts system, as well as administrative tools enabling the platform to be dynamic and responsive.
 
 There are three pieces of software that interact to provide the functionality of this application:
 
