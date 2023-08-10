@@ -1,0 +1,118 @@
+/* Home Screen */
+
+.App {
+  text-align: center;
+}
+  
+.caption {
+  background-color: rgba(238, 238, 238, 0.85);
+}
+
+.carousel {
+  border-bottom: solid #ddd 2px;
+}
+
+.carouselImage {
+  object-fit:cover;
+  width:100%;
+  height:400px
+  
+}
+
+.button-area {
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  padding:20px;
+  padding-top:60px;
+}
+
+.home-button {
+  width:250px;
+  height:50px;
+  font-size:16pt;
+  margin:5px;
+  margin-bottom:30px;
+}
+
+.home-login-button {
+  width:180px;
+}
+
+.button-area p {
+  width:300px;
+  font-size:12pt;
+  text-align:center;
+  margin-bottom:0px;
+  margin-top:5px;
+}
+
+/* Signup & Login Screens */
+
+.split-area {
+  height: 91.5vh;
+}
+
+.form-area {
+  height:85vh;
+}
+
+.input-medium {width:300px;}
+.input-small {width:200px;}
+
+.info-area {
+  background-color:rgb(201, 227, 235);
+  overflow:scroll;
+}
+
+/* Account Page */
+
+.delete-link {
+  color: gray;
+  text-decoration: underline;
+}
+
+.delete-link:hover {
+  color: red;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Store & Order Screen */
+
+.product-list {
+  overflow: scroll;
+  height: 80vh;
+}
+
+.product-listing {
+  width:31%
+}
+
+.product-image {
+  max-height: 150px;
+  max-width: 150px;
+  width:45%;
+  height:fit-content;
+}
+
+.basket {
+  height: 79vh;
+}
+
+.order-page {
+  height: 60vh;
+}
+
+.basket-list {
+  overflow: scroll;
+}
+
+/* Admin Page */
+
+.admin-product-area {
+  background-color: rgba(41, 159, 209, 0.101);
+  height:75vh;
+  overflow:scroll;
+}
